@@ -1,0 +1,11 @@
+Other/*
+Test/*
+*.tmp
+*.log
+*.~*
+*.obj
+*.tds
+*.res
+*.dsk
+*.dat
+*.xz
